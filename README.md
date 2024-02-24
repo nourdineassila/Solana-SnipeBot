@@ -1,0 +1,2 @@
+# Solana-SnipeBot
+Free Software
